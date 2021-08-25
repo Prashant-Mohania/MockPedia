@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "880948680950",
+    "project_id": "mockpedia-myfirstapp",
+    "storage_bucket": "mockpedia-myfirstapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880948680950:android:d0bb0506048d8d63ec74d7",
+        "android_client_info": {
+          "package_name": "com.example.mockpedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880948680950-b7dfkm364tnujkspng9fl5q5q3duasvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEnSqje1X-Y23EUOAyD4vs-D4zp7OjrXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880948680950-b7dfkm364tnujkspng9fl5q5q3duasvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
